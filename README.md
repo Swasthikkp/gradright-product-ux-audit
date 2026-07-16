@@ -59,6 +59,6 @@ every time.
 Product/Data enthusiast, engineering graduate. Actively exploring roles in 
 Product Management, Product Analysis, and Business Analysis.
 
-- Portfolio: swasthikkp0port.netlify.app
+- Portfolio : https://swasthikkp0port.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/swasthik-k-p-7b927b377/
 - Email: kpswasthik2004@gmail.com
