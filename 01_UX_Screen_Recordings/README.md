@@ -1,35 +1,35 @@
+# 🎥 GradRight UX Bug Screen Recordings
 
-# 📸 GradRight UI Annotated Screenshots
+This folder contains individual screen recordings demonstrating every UX/UI bug identified during testing of the GradRight application.
 
-This folder contains all annotated screenshots used in the **GradRight UI/UX Audit Report**.
+Each recording captures the complete user flow required to reproduce the issue, making it easier for recruiters, QA engineers, developers, and product teams to verify and resolve the reported problems.
 
-Each screenshot includes manually added highlights, arrows, circles, and notes to clearly identify UI inconsistencies, usability issues, navigation gaps, accessibility concerns, spacing problems, typography improvements, and visual design recommendations discovered during product testing.
-
-## 📂 View All Annotated Screenshots
+## 📂 View All Screen Recordings
 
 🔗 **Google Drive Folder**
 
-https://drive.google.com/drive/folders/13Tx1yxmxZtZKpxE3jg0eFkbN3LyUr90l?usp=drive_link
+https://drive.google.com/drive/folders/1me0a3HGNKdldAtm-T3LXTYnIt5sUBaGo?usp=drive_link
 
 ---
 
 ## What's Included
 
-- ✅ 40+ Annotated Screenshots
-- UI Design Issues
-- Navigation Problems
-- Accessibility Improvements
-- Layout & Spacing Suggestions
-- Typography Issues
-- Visual Hierarchy Improvements
-- Branding & Color Consistency Feedback
-- Component-Level Observations
+- 🎥 Individual Bug Recordings
+- Complete Reproduction Steps
+- Navigation Issues
+- Broken User Flows
+- UI State Bugs
+- Filter & Sorting Issues
+- Community Module Issues
+- AI Chat Issues
+- On-Campus Program Bugs
+- Navigation & Lifecycle Problems
 
 ---
 
 ## Purpose
 
-These screenshots complement the audit report by providing visual evidence for every design observation. The annotations were created to help recruiters, designers, developers, QA engineers, and product teams quickly understand each issue without lengthy explanations.
+These recordings provide direct visual proof of every reported issue in the audit report. They allow reviewers to observe the exact user interactions, expected behavior, and actual behavior without needing to reproduce the issues manually.
 
 ---
 
